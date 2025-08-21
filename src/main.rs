@@ -1,6 +1,6 @@
 use x25519_dalek::{EphemeralSecret, PublicKey};
 use rand::rngs::OsRng;
-use chacha20poly1305::{ChaCha20Poly1305, Key, Nonce, KeyInit, aead::{Aead}};
+use chacha20poly1305::{ChaCha20Poly1305, Key, Nonce, KeyInit, aead::Aead};
 
 fn main() {
     // 鍵ペア生成
