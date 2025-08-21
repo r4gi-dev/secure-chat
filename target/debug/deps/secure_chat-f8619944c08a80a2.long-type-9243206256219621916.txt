@@ -1,1 +1,0 @@
-ChaChaPoly1305<cipher::stream::wrapper::StreamCipherCoreWrapper<chacha20::ChaChaCore<chacha20::R20, chacha20::variants::Ietf>>>
